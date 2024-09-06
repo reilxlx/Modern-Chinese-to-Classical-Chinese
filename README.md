@@ -1,3 +1,7 @@
+### Qwen2-7B-Instruct-Modern-to-Classical-Chinese
+模型可通过huggingface下载体验：
+[Qwen2-7B-Instruct-Modern-to-Classical-Chinese](https://huggingface.co/REILX/Qwen2-7B-Instruct-Modern-to-Classical-Chinese)
+
 ### 语料整理
 将 https://github.com/NiuTrans/Classical-Modern 项目的语料整理为问答对的形式，用于训练
 - **text_to_jsonl_converter.py**：
